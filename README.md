@@ -1,8 +1,8 @@
-[![Travis (.org) branch](https://img.shields.io/travis/nl2o/plivo-sms-slack-hook/master)](https://travis-ci.org/nl2o/plivo-sms-slack-hook)
-[![Codecov](https://img.shields.io/codecov/c/github/nl2o/plivo-sms-slack-hook)](https://codecov.io/gh/nl2o/plivo-sms-slack-hook)
-[![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/nl2o/plivo-sms-slack-hook)](https://codeclimate.com/github/nl2o/plivo-sms-slack-hook)[
-![Docker Pulls](https://img.shields.io/docker/pulls/nl2o/plivo-sms-slack-hook)](https://hub.docker.com/r/nl2o/plivo-sms-slack-hook)
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/nl2o/plivo-sms-slack-hook)](https://hub.docker.com/repository/docker/nl2o/plivo-sms-slack-hook/tags?page=1)
+[![Travis (.org) branch](https://img.shields.io/travis/nl2go/plivo-sms-slack-hook/master)](https://travis-ci.org/nl2go/plivo-sms-slack-hook)
+[![Codecov](https://img.shields.io/codecov/c/github/nl2go/plivo-sms-slack-hook)](https://codecov.io/gh/nl2go/plivo-sms-slack-hook)
+[![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/nl2go/plivo-sms-slack-hook)](https://codeclimate.com/github/nl2go/plivo-sms-slack-hook)[
+![Docker Pulls](https://img.shields.io/docker/pulls/nl2go/plivo-sms-slack-hook)](https://hub.docker.com/r/nl2go/plivo-sms-slack-hook)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/nl2go/plivo-sms-slack-hook)](https://hub.docker.com/repository/docker/nl2go/plivo-sms-slack-hook/tags?page=1)
 
 # Plivo SMS Slack Hook
 
