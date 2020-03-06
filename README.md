@@ -6,6 +6,8 @@
 
 # Plivo SMS Slack Hook
 
+[Plivo hook](https://www.plivo.com/docs/sms/guides/receive-sms#set-up-a-web-server) to receive SMS messages and send them to a Slack channel.
+
 ## Prerequisites
 
 - OpenJDK 11
