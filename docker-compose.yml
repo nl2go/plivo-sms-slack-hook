@@ -1,0 +1,8 @@
+version: '2.3'
+services:
+  app:
+    image: nl2go/plivo-sms-slack-hook:dev
+    build:
+      context: .
+    ports:
+    - 8080:8080
