@@ -26,6 +26,10 @@ public class MessageService {
     }
 
     public void createMessage(Message message){
+        if(!message.getTo().equals(props.getTargetNumber())){
+            return;
+        }
+
         String messageStr = asString(message);
         restTemplate.postForEntity(props.getWebhookUrl(), singletonMap("text", messageStr), Void.class);
         LOG.info("Sent message: {}", messageStr);

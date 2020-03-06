@@ -11,6 +11,8 @@ public class Props {
 
     private String messageTemplate;
 
+    private String targetNumber;
+
     public String getWebhookUrl() {
         return webhookUrl;
     }
@@ -25,5 +27,13 @@ public class Props {
 
     public void setMessageTemplate(String messageTemplate) {
         this.messageTemplate = messageTemplate;
+    }
+
+    public String getTargetNumber() {
+        return targetNumber;
+    }
+
+    public void setTargetNumber(String targetNumber) {
+        this.targetNumber = targetNumber;
     }
 }
